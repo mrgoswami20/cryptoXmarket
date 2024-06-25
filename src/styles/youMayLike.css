@@ -1,0 +1,21 @@
+.likeList{
+    background-color: #ffffff;
+}
+.likeListItem{
+    padding : 2vh;
+    margin-left : 8vh;
+    margin-right: 8vh;
+    border : solid rgb(226, 223, 223) 1px;
+}
+.coinLogo{
+    max-height : 5vh;
+}
+.changeNum, .arrow{
+    font-size: 1.5vh;
+}
+
+.heading{
+    font-size: 3.5vh;
+    font-weight: 500;
+    margin-left: 8vh;
+}

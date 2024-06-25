@@ -1,0 +1,62 @@
+.bitcoinBox65{
+    background-color:#ffffff;
+    width : 65%;
+}
+.bitcoinBox100{
+    background-color:#ffffff;
+    width : 80%;
+}
+
+.infoLogo{
+    margin-left: 1vh;
+    width: 2vw;
+}
+.score{
+    font-size: 3vw;
+    border-radius: 50%;
+    padding: 2.5vw;
+    height: 10vw;
+    width: 10vw;
+    background-color: rgb(182, 244, 248);
+    color: rgb(112, 248, 85);
+}
+.barArea{
+    min-height: 0.5vh;
+    background-color: gray;
+}
+.tableAnalyst{
+    font-size: 1.3vw;
+}
+
+.buy{
+    width : 25vw;
+}
+.sell{
+    width : 7vw;
+}
+.hold{
+    width : 15vw;
+
+}
+.cardContain{
+    font-size : 1vw;
+}
+.chartImage{
+    width: 40vw;
+}
+.member{
+    width: 7vw;
+    border-radius: 1vw;
+}
+.teamContainer{
+    background-color: #e4f7f3;
+}
+p{
+    font-size: 1vw;
+}
+.font2{
+    font-size: 2vw;
+}
+.team{
+    font-size: 1vw;
+}

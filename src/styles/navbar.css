@@ -1,0 +1,31 @@
+.logo{
+    height: 5vh;
+    margin-left: 10vh;
+}
+.navBarButtons{
+    font-size: 2vh;
+    margin-right: 10vh;
+    font-weight: 500;
+}
+.navHeros{
+    cursor: pointer;
+}
+.searchBar {
+    border-radius: 2rem;
+    width: 20em;
+    align-items: center;
+    color: rgb(96, 95, 95);
+    border: 2px solid rgba(40, 42, 44, 0.182);
+    padding: 10px;
+    padding-left: 15px;
+    height: 6vh;
+    font-size: large;
+    outline: 0;
+    position: relative;
+}
+.search-icon {
+    position: absolute;
+    color: gray;
+    left: 52%;
+    
+}

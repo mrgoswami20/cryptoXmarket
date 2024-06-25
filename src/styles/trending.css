@@ -1,0 +1,24 @@
+.containTrend{
+    background-color: #ffffff;
+    margin-top: 4vh;
+    border-radius: 2vh;
+    font-size: 3.5vh;
+    font-weight: 450;
+    height: fit-content;
+}
+
+.coinLogo{
+    width : 3.5vh;
+}
+.coinList{
+    margin-top: 1vh;
+}
+
+.coinName{
+    margin-left: 1vh;
+    font-size : 3vh;
+    font-weight: 400;
+}
+.changeTrending{
+    padding-top : 0.1vh;
+}

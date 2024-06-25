@@ -1,0 +1,45 @@
+.logoBitcoin{
+    width : 7vh;
+}
+.bitcoinText{
+    font-size : 3.5vh;
+    font-weight: 500;
+    margin-left: 2vh;
+}
+.btcText{
+    margin-left: 1vh;
+    font-size: 2.75vh;
+    margin-top: 0.8vh;
+    color: rgb(114, 114, 121);
+}
+.dollorDisp{
+    font-size: 4.5vh;
+    font-weight: 500;
+}
+
+.changePositive{
+    width: fit-content;
+    background-color: rgb(233, 250, 233);
+    font-size: 1vw;
+    padding : 0.5vh;
+}
+
+.changeNegative{
+    background-color: rgb(250, 228, 228);
+    font-size: 1vw;
+    padding : 0.5vh;
+}
+.timeDuration{
+    color: gray;
+    font-size: 1.25vw;
+}
+.inr{
+    margin-top: 1vh;
+    font-size: 3vh;
+}
+.trading{
+    height : 60vh;
+}
+.bitcoinArea{
+    width: 100%;
+}

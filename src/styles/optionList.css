@@ -1,0 +1,13 @@
+.no-bullets, .no-bullets li {
+    list-style-type:none;
+}
+
+li{
+    margin-left: 3vh;
+    font-size: 1.5vw;
+    color: gray;
+}
+.selected{
+    border-bottom: 1px solid rgb(2, 94, 117);
+    padding-bottom: 3px
+}
